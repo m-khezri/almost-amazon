@@ -36,7 +36,7 @@ Newstring += `<h5 class="p-2 m-2 border border-alert"  style="width:200px" id="c
 Newstring += `</div>`;
 Newstring += `</div>`;
 
-    printToDom(Newstring, ProductCard);
-        
+printToDom(Newstring, ProductCard);
+
     };
 };
